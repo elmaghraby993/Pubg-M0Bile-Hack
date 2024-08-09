@@ -7,7 +7,7 @@
 
 **2. Unlock the archive:**
 
-* **Password for archive: 2024**
+* **Password for archive: 8866
 
 **3. Launch the program:**
 
